@@ -1,2 +1,2 @@
 # LeetCodes
- All of mine Leet Code Probem Solutions
+ All of my Leet Code Probem Solutions in Python
